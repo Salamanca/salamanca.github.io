@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.d7836e3f.css",
-    "main.js": "/static/js/main.d8751403.js",
+    "main.js": "/static/js/main.459f540b.js",
     "static/js/453.da8fc0fb.chunk.js": "/static/js/453.da8fc0fb.chunk.js",
-    "static/media/Results.jpg": "/static/media/Results.a722076c3c3b26220a94.jpg",
-    "static/media/ByWeekEpisodes.jpg": "/static/media/ByWeekEpisodes.c6a26b6e32f1b64d5cb6.jpg",
+    "static/media/Results.jpg": "/static/media/Results.c982f84a249d1c5c20b6.jpg",
+    "static/media/HouseRules.jpg": "/static/media/HouseRules.527e19e03ddc080d45ed.jpg",
+    "static/media/PointsByWeek.jpg": "/static/media/PointsByWeek.2bfa34c1cb3040e7e5c9.jpg",
+    "static/media/ResultsByWeek.jpg": "/static/media/ResultsByWeek.ec312f17a429773e2553.jpg",
     "index.html": "/index.html",
     "main.d7836e3f.css.map": "/static/css/main.d7836e3f.css.map",
-    "main.d8751403.js.map": "/static/js/main.d8751403.js.map",
+    "main.459f540b.js.map": "/static/js/main.459f540b.js.map",
     "453.da8fc0fb.chunk.js.map": "/static/js/453.da8fc0fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7836e3f.css",
-    "static/js/main.d8751403.js"
+    "static/js/main.459f540b.js"
   ]
 }
