@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.d7836e3f.css",
-    "main.js": "/static/js/main.da5667f9.js",
+    "main.js": "/static/js/main.3cd7f7da.js",
     "static/js/453.da8fc0fb.chunk.js": "/static/js/453.da8fc0fb.chunk.js",
-    "static/media/Results.jpg": "/static/media/Results.4f0c464ab2677422b862.jpg",
-    "static/media/HouseRules.jpg": "/static/media/HouseRules.856c30e7efe3a2fe95be.jpg",
-    "static/media/PointsByWeek.jpg": "/static/media/PointsByWeek.c6929523f99248d16847.jpg",
-    "static/media/ResultsByWeek.jpg": "/static/media/ResultsByWeek.1de07323614250e51e51.jpg",
+    "static/media/Results.jpg": "/static/media/Results.a6e0c9d283b062996d1c.jpg",
+    "static/media/HouseRules.jpg": "/static/media/HouseRules.18f967f4fc484f8ea931.jpg",
+    "static/media/ResultsByWeek.jpg": "/static/media/ResultsByWeek.5e4f98188dec81509dda.jpg",
+    "static/media/PointsByWeek.jpg": "/static/media/PointsByWeek.d6dddef4cb1e08e0d79a.jpg",
     "index.html": "/index.html",
     "main.d7836e3f.css.map": "/static/css/main.d7836e3f.css.map",
-    "main.da5667f9.js.map": "/static/js/main.da5667f9.js.map",
+    "main.3cd7f7da.js.map": "/static/js/main.3cd7f7da.js.map",
     "453.da8fc0fb.chunk.js.map": "/static/js/453.da8fc0fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7836e3f.css",
-    "static/js/main.da5667f9.js"
+    "static/js/main.3cd7f7da.js"
   ]
 }
